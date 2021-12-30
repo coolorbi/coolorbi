@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Chirag Saraswat  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
-
+<h2 align="center"><img src="https://raw.githubusercontent.com/coolorbi/coolorbi/master/Blue%20Work%20Place%20Linkedin%20Personal%20Photo%20Banner.gif"></h2> 
 <h2>About me</h2>
 
 I am Chirag Saraswat, currently working and learning as a Web Developer [Portfolio](https://chiragsaraswat.me). I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares.   
@@ -11,3 +11,5 @@ I am Chirag Saraswat, currently working and learning as a Web Developer [Portfol
 [![](https://raw.githubusercontent.com/coolorbi/coolorbi/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/coolorbi/coolorbi/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/coolorbi/coolorbi/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/coolorbi/coolorbi/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/coolorbi/coolorbi/master/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=coolorbi&theme=blueberry&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
